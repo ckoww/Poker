@@ -17,7 +17,7 @@ namespace Poker
         int[] playerPoker = new int[5];
         Random rand = new Random();
 
-        int totalCredits = 10000; // 初始籌碼
+        int totalCredits = 10000; // 初始籌碼 
         int currentBet = 0;      // 該局押注
 
         public frmPoker()
